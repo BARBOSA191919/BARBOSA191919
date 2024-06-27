@@ -1,36 +1,34 @@
-## Hi there 👋, my name is Santiago Barbosa  
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! my name is Santiago Barbosa</h1>
 
-
-- ["I am a junior Front-end Software Developer."]([https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme](https://www.linkedin.com/in/santiago-barbosa-903641209/)
+- [I am a junior Front-end Software Developer](https://www.linkedin.com/in/santiago-barbosa-903641209/)
 
 
 Software development student with a strong desire to gain experience in a work environment that complements my studies. I specialize in front-end development and have basic knowledge of Java, JavaScript, HTML, and CSS. I am interested in working in a team, learning, and sharing my knowledge. Although I am competitive, I am passionate about helping to solve problems, which fuels my curiosity to find innovative solutions. My work experience includes roles as an event advisor and a math problem transcriber on Blogger, but now I seek to redirect my career towards software development.
 
 As a software development technologist, I aspire to be part of a solid company where I can demonstrate my competencies and apply the knowledge acquired during my university studies. I am a responsible and disciplined person, always focused on achieving the highest quality and productivity in the tasks assigned. I possess analytical thinking and an excellent capacity for learning, and I value teamwork to achieve the company's goals.
 
-<h3>Things I code with</h3>
+<h3>Skills:</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit" />
+  <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whit" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
-Skills: / Java / JavaScript / HTML / CSS / Business Agility / Communication / Problem-solving / Time Management
 
  - 📝 Actualmente estoy estudiando en Oracle.
  - 👨‍🎓 Actualmente soy tecnologo en desarrollo de software
  - 🌱 Actualmente estoy aprendiendo React y angular
  - 👯 Busco colaborar en equipos de Desarrollo
 
-<p>
-   <img alt="Facebook" src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-   <img alt="Instagram" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    <img alt="Linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+<h3>Where to find me</h3>
+<p><a href="https://github.com/BARBOSA191919?tab=repositories" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://web.facebook.com/santiago.josebarbosa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="sbarbosarivas" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/santiago-barbosa-903641209/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://profile.oracle.com/myprofile/account/secure/update-account.jspx?nexturl=https%3A%2F%2Fwww.oracle.com%2F" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /></a>
 </p>
