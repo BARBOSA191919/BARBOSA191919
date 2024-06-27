@@ -1,15 +1,16 @@
-## Hola 👋, mi nombre es Santiago Barbosa
-
+## Hi there 👋, my name is Santiago Barbosa
 
 
 Soy Desarrollador de Software junior Front-end
 
-Soy un estudiante de desarrollo de software con un fuerte deseo de adquirir experiencia en un entorno laboral que complemente mis estudios. Me especializo en el desarrollo front-end y poseo conocimientos básicos en Java, JavaScript, HTML y CSS. Estoy interesado en trabajar en equipo, aprender y compartir mis conocimientos. Aunque soy competitivo, me apasiona ayudar a resolver problemas, lo que alimenta mi curiosidad por encontrar soluciones innovadoras. Mi experiencia laboral incluye roles asesor de eventos, transcriptor de problemas matematicos pero ahora busco redirigir mi carrera hacia el desarrollo de software.
+I am a software development student with a strong desire to gain experience in a work environment that complements my studies. I specialize in front-end development and have basic knowledge of Java, JavaScript, HTML, and CSS. I am interested in working in a team, learning, and sharing my knowledge. Although I am competitive, I am passionate about helping to solve problems, which fuels my curiosity to find innovative solutions. My work experience includes roles as an event advisor and a math problem transcriber on Blogger, but now I seek to redirect my career towards software development.
 
-Como tecnólogo en desarrollo de software, aspiro a formar parte de una empresa sólida donde pueda demostrar mis competencias y aplicar los conocimientos adquiridos durante mis estudios universitarios. Soy una persona responsable y disciplinada, siempre enfocada en alcanzar la mayor calidad y productividad en las tareas asignadas. Poseo un pensamiento analítico y una excelente capacidad de aprendizaje, y valoro el trabajo en equipo para alcanzar las metas de la empresa.
-Habilidades: / Java / JS / HTML / CSS / Agilidad empresarial
+As a software development technologist, I aspire to be part of a solid company where I can demonstrate my competencies and apply the knowledge acquired during my university studies. I am a responsible and disciplined person, always focused on achieving the highest quality and productivity in the tasks assigned. I possess analytical thinking and an excellent capacity for learning, and I value teamwork to achieve the company's goals.
 
-🔭 Actualmente estoy trabajando en Studing para mí.
-🌱 Actualmente estoy aprendiendo React
+Skills: / Java / JavaScript / HTML / CSS / Business Agility / Communication / Problem-solving / Time Management
+
+📝 Actualmente estoy estudiando en Oracle.
+👨‍🎓 Actualmente soy tecnologo en desarrollo de software
+🌱 Actualmente estoy aprendiendo React y angular
 👯 Busco colaborar en equipos de Desarrollo
 github linkedin Facebook Instagram
