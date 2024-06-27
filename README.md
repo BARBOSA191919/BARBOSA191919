@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! my name is Santiago Barbosa</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! my name is Santiago Barbosa 💻</h1>
 
-- [I am a junior Front-end Software Developer](https://www.linkedin.com/in/santiago-barbosa-903641209/)
+- [I am a junior Front-end Software Developer👨‍💻](https://www.linkedin.com/in/santiago-barbosa-903641209/)
 
 
 Software development student with a strong desire to gain experience in a work environment that complements my studies. I specialize in front-end development and have basic knowledge of Java, JavaScript, HTML, and CSS. I am interested in working in a team, learning, and sharing my knowledge. Although I am competitive, I am passionate about helping to solve problems, which fuels my curiosity to find innovative solutions. My work experience includes roles as an event advisor and a math problem transcriber on Blogger, but now I seek to redirect my career towards software development.
