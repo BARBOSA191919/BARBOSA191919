@@ -7,6 +7,8 @@ Software development student with a strong desire to gain experience in a work e
 
 As a software development technologist, I aspire to be part of a solid company where I can demonstrate my competencies and apply the knowledge acquired during my university studies. I am a responsible and disciplined person, always focused on achieving the highest quality and productivity in the tasks assigned. I possess analytical thinking and an excellent capacity for learning, and I value teamwork to achieve the company's goals.
 
+Link: https://codefolio-santiago-barbosa1919.vercel.app/
+
 <h3>Skills:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
